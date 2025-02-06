@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is Juan but I'm better known as **fafi**, I'm a **software developer** passionate about **cybersecurity**.
+
+I’m currently learning **pentesting** and **computer science** to improve my understanding of software at a low level.
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,docker,linux,windows)](https://skillicons.dev)
+
+
 <!--
 **fafixz/fafixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
